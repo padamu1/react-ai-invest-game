@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-ai-invest-game/static/css/main.e6c13ad2.css",
-    "main.js": "/react-ai-invest-game/static/js/main.8425e71a.js",
+    "main.js": "/react-ai-invest-game/static/js/main.4b5cc90e.js",
     "static/js/453.e3abb2c2.chunk.js": "/react-ai-invest-game/static/js/453.e3abb2c2.chunk.js",
     "index.html": "/react-ai-invest-game/index.html",
     "main.e6c13ad2.css.map": "/react-ai-invest-game/static/css/main.e6c13ad2.css.map",
-    "main.8425e71a.js.map": "/react-ai-invest-game/static/js/main.8425e71a.js.map",
+    "main.4b5cc90e.js.map": "/react-ai-invest-game/static/js/main.4b5cc90e.js.map",
     "453.e3abb2c2.chunk.js.map": "/react-ai-invest-game/static/js/453.e3abb2c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8425e71a.js"
+    "static/js/main.4b5cc90e.js"
   ]
 }
